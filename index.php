@@ -71,9 +71,26 @@ session_start();
 </div>
 </header>
 <!-- As a link -->
-<nav class="navbar fixed-bottom navbar-dark black text-center">
+<nav class="navbar fixed-bottom navbar-transparent text-center">
     <div class="text-center">
-    <a class="navbar-brand" href="#">ZERO tolerance against PROCASTINATION !! </a>
+    <a class="navbar-brand zero" href="#">ZERO TOLERANCE AGAINST PROCASTINATION !! </a>
+   <div class="icons">
+    <!--Facebook-->
+    <a class="icons-sm fb-ic"><i class="fab fa-facebook-f fa-2x"> </i></a>
+    <!--Twitter-->
+    <a class="icons-sm tw-ic"><i class="fab fa-twitter fa-2x"> </i></a>
+    <!--Google +-->
+    <a class="icons-sm gplus-ic"><i class="fab fa-google-plus-g fa-2x"> </i></a>
+    <!--Linkedin-->
+    <a class="icons-sm li-ic"><i class="fab fa-linkedin-in fa-2x"> </i></a>
+    <!--Instagram-->
+    <a class="icons-sm ins-ic"><i class="fab fa-instagram fa-2x"> </i></a>
+    <!--Pinterest-->
+    
+    
+
+
+
     </div>
  
 </nav>

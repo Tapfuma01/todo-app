@@ -12,6 +12,8 @@
 .navbar {
 	z-index: 1;
 	color: #fff;
+	text-align: center;
+	justify-content: center;
 }
 
 html,
@@ -110,4 +112,11 @@ input:focus{
 	color: gray;
 	text-decoration: line-through;
 }
+.icons{
+	display: inline;
+
+	
+    
+}
+
 
