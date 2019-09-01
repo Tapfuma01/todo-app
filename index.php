@@ -48,7 +48,7 @@ session_start();
       
     </div>
 </nav> 
-
+<!-- /#container -->
     <div id="container">
   
         <h1>To-Do List <i class="fa fa-plus"></i></h1>
@@ -57,10 +57,6 @@ session_start();
 
         <ul>
     
-    </div> <!-- /#container -->
-
-    <!-- Imports jQuery -->
-	<script type="text/javascript" src="assets/js/lib/jquery-2.1.4.min.js"></script>
 
     <!-- Imports custom JavaScript -->
     <script type="text/javascript" src="assets/js/todos.js"></script>
