@@ -43,7 +43,7 @@ session_start();
 </head>
 <body>
                 <!-- As a link -->
- <nav class="navbar navbar-expand-lg fixed-bottom navbar-dark info-color">
+ <nav class="navbar navbar-expand-lg fixed-top navbar-dark info-color">
     <a class="navbar-brand" href="#">TapfApps</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
