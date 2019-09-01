@@ -42,21 +42,59 @@ session_start();
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 </head>
 <body>
-                <!-- As a link -->
- <nav class="navbar navbar-expand-lg fixed-top navbar-dark info-color">
-    <a class="navbar-brand" href="#">TapfApps</a>
-      
+                <!--Main Navigation-->
+<header>
+
+<nav class="navbar navbar-expand-lg navbar-dark black">
+  <div class="container">
+    <a class="navbar-brand" href="#"><strong>TapfApps</strong></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Applications</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+      </ul>
     </div>
-</nav> 
-<!-- /#container -->
+  </div>
+</nav>
+
+<div class="view intro-2">
+  <div class="full-bg-img">
+    <div class="mask rgba-black-strong flex-center">
     <div id="container">
   
-        <h1 class="heading">To-Do List <i class="fa fa-plus"></i></h1>
+      <h1 class="heading">To-Do List <i class="fa fa-plus"></i></h1>
 
-        <input type="text" placeholder="Add New Todo">
+       <input type="text" placeholder="Add New Todo">
 
-        <ul>
+      <ul>
     
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+<!-- As a link -->
+<nav class="navbar fixed-bottom navbar-dark primary-color">
+  <a class="navbar-brand" href="#">Link</a>
+</nav>
+
+<br>
+
+<!-- As a heading -->
+<nav class="navbar navbar-light blue lighten-4">
+  <span class="navbar-brand">Heading</span>
+</nav>
 
     <!-- Imports custom JavaScript -->
     <script type="text/javascript" src="assets/js/todos.js"></script>
