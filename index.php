@@ -16,7 +16,8 @@ session_start();
 
 	<link rel="stylesheet" type="text/css" href="assets/css/todo.css">
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,500' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+    <link href='https://fonts.googleapis.com/css?family=Fjalla One' rel='stylesheet'>
 
      <!-- Bootstrap CSS -->
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -55,7 +56,7 @@ session_start();
 
 <div class="view intro-2">
   <div class="full-bg-img">
-    <div class="mask rgba-black-strong flex-center">
+    <div class="mask rgba-black-strong ">
     <div id="container">
   
       <h1 class="heading">To-Do List <i class="fa fa-plus"></i></h1>
@@ -70,7 +71,7 @@ session_start();
 </div>
 </header>
 <!-- As a link -->
-<nav class="navbar fixed-bottom navbar-dark primary-color">
+<nav class="navbar fixed-bottom navbar-dark black">
     <div class="text-center">
     <a class="navbar-brand" href="#">ZERO tolerance against PROCASTINATION !! </a>
     </div>
