@@ -48,22 +48,7 @@ session_start();
 <nav class="navbar navbar-expand-lg navbar-dark black">
   <div class="container">
     <a class="navbar-brand" href="#"><strong>TapfApps</strong></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Applications</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
-        </li>
-      </ul>
+    
     </div>
   </div>
 </nav>
@@ -86,7 +71,10 @@ session_start();
 </header>
 <!-- As a link -->
 <nav class="navbar fixed-bottom navbar-dark primary-color">
-  <a class="navbar-brand" href="#">Link</a>
+    <div class="text-center">
+    <a class="navbar-brand" href="#">ZERO tolerance against PROCASTINATION !! </a>
+    </div>
+ 
 </nav>
 
 <br>
