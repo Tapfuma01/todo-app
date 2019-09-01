@@ -51,7 +51,7 @@ session_start();
 <!-- /#container -->
     <div id="container">
   
-        <h1>To-Do List <i class="fa fa-plus"></i></h1>
+        <h1 class="heading">To-Do List <i class="fa fa-plus"></i></h1>
 
         <input type="text" placeholder="Add New Todo">
 
