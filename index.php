@@ -46,9 +46,9 @@ session_start();
                 <!--Main Navigation-->
 <header>
 
-<nav class="navbar navbar-expand-lg navbar-dark black">
+<nav class="navbar navbar-expand-lg navbar-transparent text-dark">
   <div class="container">
-    <a class="navbar-brand" href="#"><strong>TapfApps</strong></a>
+    <a class="navbar-brand" href="#"><strong>T A P F Apps</strong></a>
     
     </div>
   </div>
@@ -71,7 +71,7 @@ session_start();
 </div>
 </header>
 <!-- As a link -->
-<nav class="navbar fixed-bottom navbar-dark black">
+<nav class="navbar fixed-bottom navbar-dark black text-center">
     <div class="text-center">
     <a class="navbar-brand" href="#">ZERO tolerance against PROCASTINATION !! </a>
     </div>

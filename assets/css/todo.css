@@ -10,7 +10,8 @@
     }
 }
 .navbar {
-    z-index: 1;
+	z-index: 1;
+	color: #fff;
 }
 
 html,
@@ -25,6 +26,10 @@ ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
+}
+a.navbar-brand{
+	color: #ffff;
+	font-family: 'Fjalla One';
 }
 
 
