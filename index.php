@@ -77,13 +77,6 @@ session_start();
  
 </nav>
 
-<br>
-
-<!-- As a heading -->
-<nav class="navbar navbar-light blue lighten-4">
-  <span class="navbar-brand">Heading</span>
-</nav>
-
     <!-- Imports custom JavaScript -->
     <script type="text/javascript" src="assets/js/todos.js"></script>
 
