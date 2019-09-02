@@ -45,8 +45,7 @@ session_start();
 <body>
                 <!--Main Navigation-->
 <header>
-
-<nav class="navbar navbar-expand-lg navbar-transparent text-dark">
+<nav class="navbar navbar-expand-lg navbar-dark black text-dark">
   <div class="container">
     <a class="navbar-brand" href="#"><strong>T A P F Apps</strong></a>
     
@@ -84,8 +83,7 @@ session_start();
     <!--Linkedin-->
     <a class="icons-sm li-ic"><i class="fab fa-linkedin-in fa-2x"> </i></a>
     <!--Instagram-->
-    <a class="icons-sm ins-ic"><i class="fab fa-instagram fa-2x"> </i></a>
-    <!--Pinterest-->
+  
     
     
 
