@@ -14,7 +14,7 @@ session_start();
 
 	<title>Todo List</title>
 
-	<link rel="stylesheet" type="text/css" href="assets/css/todo.css">
+	<link rel="stylesheet" type="text/css" href="css/todo.css">
 	<link href='https://fonts.googleapis.com/css?family=Roboto:400,700,500' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
     <link href='https://fonts.googleapis.com/css?family=Fjalla One' rel='stylesheet'>
@@ -94,7 +94,7 @@ session_start();
 </nav>
 
     <!-- Imports custom JavaScript -->
-    <script type="text/javascript" src="assets/js/todos.js"></script>
+    <script type="text/javascript" src="js/todos.js"></script>
 
 </body>
 </html>
