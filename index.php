@@ -51,11 +51,8 @@
   <div class="full-bg-img">
     <div class="mask rgba-black-strong ">
     <div id="container">
-  
       <h1 class="heading">To-Do List <i class="fa fa-plus"></i></h1>
-
-       <input type="text" placeholder="Add New Todo">
-
+        <input type="text" placeholder="Add New Todo">
       <ul>
     
       </div>
@@ -74,7 +71,8 @@
       <a class="icons-sm tw-ic"><i class="fab fa-twitter fa-2x"> </i></a>
        <!--Google +-->
       <a class="icons-sm gplus-ic"><i class="fab fa-google-plus-g fa-2x"> </i></a>
-    </div>
+      <a class="footer-copyright text-center py-3">© 2019 Copyright:
+        <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
   </div>
  
 </nav>
