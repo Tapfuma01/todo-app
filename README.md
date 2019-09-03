@@ -7,7 +7,7 @@ To run the app you need to use Visual Studio, a web-browser,an online server lik
 ### Installing
 There is no installation required
 ## Deployment
-to deploy it live you need xamp to access apache server
+To deploy it live you need xamp to access apache server
 ## Built With
 * VISUAL STUDIO CODE
 ## Authors
