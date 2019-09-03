@@ -9,7 +9,7 @@ There is no installation required
 ## Deployment
 To deploy it live you need xamp to access apache server
 ## Built With
-* VISUAL STUDIO CODE
+* VISUAL STUDIO CODE, PHP,JQUERY AND JAVASCRIPT
 ## Authors
 TAPFUMA E MHUNDWA
 ## Acknowledgments
