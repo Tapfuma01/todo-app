@@ -1,7 +1,7 @@
 # todo-app
  # Project Title
 * TODO APPLICATION
-This is a task handling application whereby the user adds a task he wants to do and the user is also abke to to delete it and to strike through it.
+This is a task handling application whereby the user adds a task he wants to do and the user is also able to to delete it and to strike through it.
 ### Prerequisites
 To run the app you need to use Visual Studio,web-browser,an online server like xamp and the the right link for the app.
 ### Installing
