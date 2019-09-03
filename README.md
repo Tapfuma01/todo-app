@@ -1,18 +1,10 @@
 # todo-app
  # Project Title
 This is a task handling application whereby the user adds a task he wants to do and the user is also abke to to delete it and to strike through it.
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
-What things you need to install the software and how to install them
-Give examples
+To run the app you need to use Visual Studio,web-browser,an online server like xamp and the the right link for the app.
 ### Installing
-A step by step series of examples that tell you how to get a development env running
-Say what the step will be
-Give the example
-And repeat
-until finished
-End with an example of getting some data out of the system or using it for a little demo
+The
 ## Running the tests
 Explain how to run the automated tests for this system
 ### Break down into end to end tests
