@@ -65,25 +65,17 @@
 </header>
 <!-- As a link -->
 <nav class="navbar fixed-bottom navbar-transparent text-center">
-    <div class="text-center">
+  <div class="text-center">
     <a class="navbar-brand zero" href="#">ZERO TOLERANCE AGAINST PROCASTINATION !! </a>
-   <div class="icons">
-    <!--Facebook-->
-    <a class="icons-sm fb-ic"><i class="fab fa-facebook-f fa-2x"> </i></a>
-    <!--Twitter-->
-    <a class="icons-sm tw-ic"><i class="fab fa-twitter fa-2x"> </i></a>
-    <!--Google +-->
-    <a class="icons-sm gplus-ic"><i class="fab fa-google-plus-g fa-2x"> </i></a>
-    <!--Linkedin-->
-    <a class="icons-sm li-ic"><i class="fab fa-linkedin-in fa-2x"> </i></a>
-    <!--Instagram-->
-  
-    
-    
-
-
-
+    <div class="icons">
+       <!--Facebook-->
+      <a class="icons-sm fb-ic"><i class="fab fa-facebook-f fa-2x"> </i></a>
+       <!--Twitter-->
+      <a class="icons-sm tw-ic"><i class="fab fa-twitter fa-2x"> </i></a>
+       <!--Google +-->
+      <a class="icons-sm gplus-ic"><i class="fab fa-google-plus-g fa-2x"> </i></a>
     </div>
+  </div>
  
 </nav>
 
