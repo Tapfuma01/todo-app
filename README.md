@@ -10,7 +10,7 @@ There is no installation required
 To deploy it live you need xamp to access apache server
 ## Built With
 * VISUAL STUDIO CODE, PHP,JQUERY AND JAVASCRIPT
-## Authors
+## Author
 TAPFUMA E MHUNDWA
 ## Acknowledgments
 * For the design i used mostly black and white as it contrast well and is also my favorite colour.
