@@ -72,7 +72,7 @@
        <!--Google +-->
       <a class="icons-sm gplus-ic"><i class="fab fa-google-plus-g fa-2x"> </i></a>
       <a class="footer-copyright text-center py-3">© 2019 Copyright:
-        <a class="text-white" href="https://tapfuma01.github.io/todo-app/"> tapfDESIGNS.com</a>
+      <a class="text-white" href="https://tapfuma01.github.io/todo-app/"> tapfDESIGNS.com</a>
   </div>
  
 </nav>
